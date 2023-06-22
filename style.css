@@ -282,7 +282,7 @@ input:checked + .slider:before {
       0deg,
       rgba(0,0,0,0.7),
       rgba(0,0,0,0.7)
-  ), url('../assets/images/benefit-seguro-crop.png');
+  ), url('assets/images/benefit-seguro-crop.png');
 }
 
 /*Selecciona la segunda "carta" de las 3 creadas*/
@@ -291,7 +291,7 @@ input:checked + .slider:before {
       0deg,
       rgba(0,0,0,0.7),
       rgba(0,0,0,0.7)
-  ), url("../assets/images/benefit-map-crop.png");
+  ), url("assets/images/benefit-map-crop.png");
 }   
 
 /*Selecciona la segunda "carta" de las 3 creadas
@@ -301,7 +301,7 @@ input:checked + .slider:before {
       0deg,
       rgba(0,0,0,0.7),
       rgba(0,0,0,0.7)
-  ), url("../assets/images/benefit-status-crop.png");
+  ), url("assets/images/benefit-status-crop.png");
 }
 
 .beneficios{
