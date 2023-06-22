@@ -19,6 +19,7 @@ p{font-size: 1.25em;}
 ul{list-style-type: none;}
 li{font-size: 1.25em;}
 
+
 button{
   font-size: 1.25em;
   font-weight: bold;
@@ -69,10 +70,11 @@ button:active {
 }
 
 header{background-color: rgb(245,245,245);}
+
 header .logo{ 
     margin: 0; 
-    padding: 25px 30px;
-    width: 200px;
+    padding: 5px 30px;
+    width: 135px;
 }
 
 
@@ -87,7 +89,8 @@ header nav{
   display: flex;
   flex-direction: column;
   text-align: center;
-  padding-bottom: 25px;
+  padding-top: 20px;
+  padding-bottom: 5px;
 }
 
 header a{
@@ -469,6 +472,10 @@ input:checked + .slider:before {
 .carta2:last-child:hover {
   border: 3px solid rgba(124, 185, 231, 0.654);
 }
+
+
+
+
 
 
 

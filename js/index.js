@@ -42,3 +42,40 @@ window.sr = ScrollReveal();
         origin: 'bottom',
         distance: '-100px'
     });
+
+    
+
+      sr.reveal('.hero-title', {
+        duration: 2000,
+        origin: 'left',
+        distance: '200px',
+        delay: 500
+      });
+  
+      sr.reveal('.hero-description', {
+        duration: 2000,
+        origin: 'right',
+        distance: '200px',
+        delay: 500
+      });
+  
+      sr.reveal('.cta-button', {
+        duration: 1500,
+        origin: 'bottom',
+        distance: '50px',
+        delay: 1000
+      });
+  
+      sr.reveal('.feature', {
+        duration: 2000,
+        origin: 'bottom',
+        distance: '100px',
+        delay: 200
+      }); 
+  
+      sr.reveal('.contact-info', {
+        duration: 1500,
+        origin: 'bottom',
+        distance: '50px',
+        delay: 500
+      });
