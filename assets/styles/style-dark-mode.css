@@ -51,11 +51,11 @@
 
 
 .dark-mode .carta:first-child{
-    background-image: url("/home/yasper-shadowmoses/Documentos/5 Cycle/IHC & Mobile Technologies/Landing_Page_TechSos/techsos/assets/images/benefit-seguro-darkmode.png")
+    background-image: url("assets/images/benefit-seguro-darkmode.png")
 }
 
 .dark-mode .carta:last-child{
-    background-image: url("/home/yasper-shadowmoses/Documentos/5 Cycle/IHC & Mobile Technologies/Landing_Page_TechSos/techsos/assets/images/benefit-status-darkmode.png")
+    background-image: url("assets/images/benefit-status-darkmode.png")
 }
 
 
