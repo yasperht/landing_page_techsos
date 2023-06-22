@@ -123,7 +123,7 @@ header{
       0deg,
       rgba(0,0,0,0.8),
       rgba(0,0,0,0.8)
-  ), url("/home/yasper-shadowmoses/Documentos/5 Cycle/IHC & Mobile Technologies/Landing_Page_TechSos/techsos/assets/images/hero_4k.png");
+  ), url("assets/images/fondo-main.png");
 
   background-repeat: no-repeat;
   background-size: cover;
@@ -282,7 +282,7 @@ input:checked + .slider:before {
       0deg,
       rgba(0,0,0,0.7),
       rgba(0,0,0,0.7)
-  ), url("/home/yasper-shadowmoses/Documentos/5 Cycle/IHC & Mobile Technologies/Landing_Page_TechSos/techsos/assets/images/benefit-seguro-crop.png");
+  ), url('../assets/images/benefit-seguro-crop.png');
 }
 
 /*Selecciona la segunda "carta" de las 3 creadas*/
@@ -291,7 +291,7 @@ input:checked + .slider:before {
       0deg,
       rgba(0,0,0,0.7),
       rgba(0,0,0,0.7)
-  ), url("/home/yasper-shadowmoses/Documentos/5 Cycle/IHC & Mobile Technologies/Landing_Page_TechSos/techsos/assets/images/benefit-map-crop.png");
+  ), url("../assets/images/benefit-map-crop.png");
 }   
 
 /*Selecciona la segunda "carta" de las 3 creadas
@@ -301,7 +301,7 @@ input:checked + .slider:before {
       0deg,
       rgba(0,0,0,0.7),
       rgba(0,0,0,0.7)
-  ), url("/home/yasper-shadowmoses/Documentos/5 Cycle/IHC & Mobile Technologies/Landing_Page_TechSos/techsos/assets/images/benefit-status-crop.png");
+  ), url("../assets/images/benefit-status-crop.png");
 }
 
 .beneficios{
@@ -941,15 +941,15 @@ se aplicarán los siguientes cambios.*/
   }
   
   .carta:first-child {
-    background-image: url("/home/yasper-shadowmoses/Documentos/5 Cycle/IHC & Mobile Technologies/Landing_Page_TechSos/techsos/assets/images/benefit-seguro-crop.png");
+    background-image: url("assets/images/benefit-seguro-crop.png");
   }
   
   .carta:nth-child(2) {
-    background-image: url("/home/yasper-shadowmoses/Documentos/5 Cycle/IHC & Mobile Technologies/Landing_Page_TechSos/techsos/assets/images/benefit-map.png");
+    background-image: url("assets/images/benefit-map.png");
   }
   
   .carta:last-child {
-    background-image: url("/home/yasper-shadowmoses/Documentos/5 Cycle/IHC & Mobile Technologies/Landing_Page_TechSos/techsos/assets/images/benefit-status.jpg");
+    background-image: url("assets/images/benefit-status.jpg");
   }
   
   .carta ul {
